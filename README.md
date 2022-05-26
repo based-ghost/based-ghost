@@ -1,4 +1,4 @@
-## Howdy &nbsp;👋🤠
+### Howdy &nbsp;👋🤠
 
 - ⚡ &nbsp;<strong>Technical background:</strong> Full-stack .NET developer (client-side focus of React, Vue, Angular, or Svelte)
 
