@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋🤠
 
 - ⚡ <strong>Technical background</strong>: Full-stack .NET developer (client-side focus of React, Vue, Angular, or Svelte)
 - 🔭 <strong>Current hobby</strong>: Digital privacy & security, OSINT, ethical hacking
